@@ -1,5 +1,5 @@
 # sprint7-final-project
-#Proyecto 6: Análisis de una empresa de telecomunicaciones – ConnectaTel
+# Proyecto 6: Análisis de una empresa de telecomunicaciones – ConnectaTel
 
 # Objetivo del proyecto
 
